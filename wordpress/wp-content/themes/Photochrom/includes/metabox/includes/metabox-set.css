@@ -1,0 +1,86 @@
+#photochrom-set_metabox .column {
+	display: inline-block;
+	width: 45%;
+	vertical-align: top;
+}
+
+	#photochrom-set_metabox .left {
+		border-right: 1px solid #dfdfdf;
+		margin-right: 3em;
+		margin-left: 1em;
+	}
+
+	#photochrom-set_metabox .column h2 {
+		margin-top: 0;
+	}
+	
+#photochrom-set_metabox .info {
+	text-align: right;
+}
+
+#photochrom-set-mirror {
+	margin-bottom: 1.5em;
+	white-space: nowrap;
+	overflow: hidden;
+	-ms-overflow-x: scroll;
+	overflow-x: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+	
+	#photochrom-set-mirror li {
+		display: inline-block;
+		width: 170px;
+		height: 220px;
+		padding: 1em 0;
+		vertical-align: top;
+		text-align: center;
+		background-color: #fff;
+		border: 1px solid #dfdfdf;
+		margin-right: .5em;
+	}
+	
+		#photochrom-set-mirror a:active {
+			outline: none;
+		}
+		
+		#photochrom-set-mirror .thumbnail,
+		#photochrom-set-mirror .thumbnail img {
+			width: 150px;
+			height: 150px;
+		}
+	
+		#photochrom-set-mirror .thumbnail {
+			line-height: 150px;
+			display: inline-block;
+			margin-bottom: 1em;
+		}
+		
+			#photochrom-set-mirror .video .thumbnail {
+				background-color: #efefef;
+			}
+		
+			#photochrom-set-mirror .video .thumbnail:after {
+				content: " ";
+				display: inline-block;
+				vertical-align: middle;
+				width: 0;
+				height: 0;
+				border-style: solid;
+				border-color: transparent;
+				border-width: 20px;
+				border-left-color: #21759b;
+				margin-right: -25px;
+			}
+	
+		#photochrom-set-mirror .caption {
+			border: none;
+			background-color: transparent;
+			text-align: center;
+			border-radius: 0;
+			width: 90%;
+		}
+			
+		#photochrom-set-mirror p {
+			margin-top: 0;
+			margin-bottom: 1em;
+		}

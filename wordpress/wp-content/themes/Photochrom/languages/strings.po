@@ -1,0 +1,718 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: Photochrom/comments.php:36
+#: Photochrom/part-article.php:37
+msgid "% Responses"
+msgstr ""
+
+#. Text in function
+#: Photochrom/view-set.php:12
+msgid "%s of %s"
+msgstr ""
+
+#. Text in function
+#: Photochrom/comments.php:36
+#: Photochrom/part-article.php:37
+msgid "1 Response"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:59
+msgid "A shortened version of the Footer to be used in full-screen sections."
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/start.php:1
+msgid "Add Images To Set"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/metabox/metabox-set.php:9
+msgid "Add photos from your WordPress Media Library."
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:85
+#: Photochrom/includes/config/options.php:95
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:63
+msgid "Analytics"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/start.php:1
+msgid "Assign Image To Slide"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:361
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:25
+msgid "Bookmark Icon"
+msgstr ""
+
+#. Text in function
+#: Photochrom/functions.php:1
+msgid "Bottom"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/custom-types.php:1
+msgid "Browse"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:111
+msgid "Browsing"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:371
+msgid "CSS Code"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/metabox-picks.php:13
+msgid "Caption"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:125
+msgid "Caption Bar"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/metabox/metabox-picks.php:29
+msgid "Centered"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/openframe/includes/update.php:40
+msgid "Changes"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/part-item.php:63
+msgid "Check Out"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:389
+msgid "Check for Updates"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:45
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: Photochrom/view-article.php:39
+#: Photochrom/page.php:39
+msgid "Continue"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/custom-types.php:1
+msgid "Create"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/metabox/metabox-picks.php:5
+msgid "Create New Slide"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/metabox/metabox-picks.php:37
+msgid "Create Slide"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/template-collection.php:65
+msgid "Create a new Set here"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/template-picks.php:89
+msgid "Create a new Slide here"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:367
+msgid "Custom Code"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/template-collection.php:61
+#: Photochrom/template-picks.php:85
+msgid "D&rsquo;oh!"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/metabox-set.php:23
+msgid "Drag To Order. Or %s"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:155
+msgid "Dynamic Page Title"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/index.php:45
+msgid "Embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/openframe/panel/includes/template.php:44
+msgid "Empty"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:325
+msgid "Enable to load Fonts from Google Fonts."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/part-item.php:58
+msgid "End <strong>of</strong> Set"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:145
+msgid "End Mark"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/start.php:1
+#: Photochrom/template-picks.php:49
+#: Photochrom/includes/metabox/metabox-picks.php:19
+msgid "Explore Set"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:355
+msgid "Extras"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:315
+msgid "Fonts"
+msgstr ""
+
+#. Text in function
+#: Photochrom/functions.php:1
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/metabox/metabox-set.php:15
+msgid "From The Web"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/metabox/metabox-set.php:5
+msgid "From Your Library"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:1
+msgid "General"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:317
+msgid "Google Fonts"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/openframe/includes/update.php:43
+msgid "How do I update?"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:15
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:67
+msgid "Javascript Code"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:117
+msgid "Large"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:357
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: Photochrom/comments.php:8
+msgid "Leave a reply"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/metabox/metabox-picks.php:31
+msgid "Left Side"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:79
+msgid "Listing"
+msgstr ""
+
+#. Text in function
+#: Photochrom/index.php:28
+msgid "Load More Articles"
+msgstr ""
+
+#. Text in function
+#: Photochrom/template-collection.php:44
+msgid "Load more Sets from this Collection"
+msgstr ""
+
+#. Text in function
+#: Photochrom/comments.php:54
+msgid "Load more responses to this Article"
+msgstr ""
+
+#. Text in function
+#: Photochrom/index.php:28
+msgid "Loading Articles.."
+msgstr ""
+
+#. Text in function
+#: Photochrom/view-article.php:39
+#: Photochrom/page.php:39
+msgid "Loading Page.."
+msgstr ""
+
+#. Text in function
+#: Photochrom/template-collection.php:44
+msgid "Loading Sets.."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/template-picks.php:73
+#: Photochrom/comments.php:54
+#: Photochrom/part-intro.php:27
+#: Photochrom/view-set.php:38
+msgid "Loading.."
+msgstr ""
+
+#. Text in function
+#: Photochrom/comments.php:8
+msgid "Logout"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:163
+msgid "Management"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/metabox/metabox-picks.php:23
+msgid "More Settings"
+msgstr ""
+
+#. Text in function
+#: Photochrom/functions.php:1
+msgid "Navigation Menu"
+msgstr ""
+
+#. Text in function
+#: Photochrom/comments.php:8
+msgid "Nevermind.."
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/custom-types.php:1
+msgid "New Set"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/start.php:1
+msgid "No Caption"
+msgstr ""
+
+#. Text in function
+#: Photochrom/comments.php:36
+#: Photochrom/part-article.php:37
+msgid "No Responses"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:309
+msgid "Not all profiles deserve to be in the Navigation Bar: choose which one to display carefully!"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/start.php:1
+msgid "Organize Picks"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/start.php:1
+#: Photochrom/includes/custom-types.php:1
+msgid "Organize Set"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:117
+msgid "Original"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/metabox/metabox-set.php:19
+msgid "Paste your YouTube or Vimeo link here and hit enter."
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:103
+msgid "Publish Date"
+msgstr ""
+
+#. Text in function
+#: Photochrom/view-article.php:53
+msgid "Published on %s"
+msgstr ""
+
+#. Text in function
+#: Photochrom/view-article.php:39
+#: Photochrom/page.php:39
+msgid "Read the following page"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/start.php:1
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:115
+msgid "Resolution"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/metabox/metabox-picks.php:33
+msgid "Right Side"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/openframe/panel/display.php:8
+msgid "Save Settings"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/openframe/panel/display.php:8
+msgid "Saved!"
+msgstr ""
+
+#. Text in function
+#: Photochrom/functions.php:1
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: Photochrom/header.php:88
+msgid "Sections"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/template-collection.php:63
+#: Photochrom/template-picks.php:87
+msgid "Seems you were expecting to find something that doesn&rsquo;t exist. Happens to everyone."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/openframe/panel/includes/template.php:43
+#: Photochrom/includes/metabox/metabox-picks.php:7
+msgid "Select Image"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/metabox/metabox-set.php:7
+msgid "Select Images"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:77
+msgid "Sets"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:83
+msgid "Sets per Page"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/openframe/panel/display.php:3
+msgid "Settings Panel"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:55
+msgid "Shortened"
+msgstr ""
+
+#. Text in function
+#: Photochrom/template-collection.php:44
+#: Photochrom/comments.php:54
+#: Photochrom/index.php:28
+msgid "Show More"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:167
+msgid "Show in WordPress"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/metabox-set.php:23
+msgid "Shuffle!"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:41
+msgid "Site Footer"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:21
+msgid "Site Icon"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:3
+msgid "Site Title"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:177
+msgid "Social"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:179
+msgid "Social Networks"
+msgstr ""
+
+#. Text in function
+#: Photochrom/view-article.php:56
+msgid "Tagged as"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/metabox-picks.php:25
+msgid "Text Color"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:7
+msgid "Textual"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:71
+msgid "The Tracking Code of your favorite Analytics Web Service."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:37
+msgid "The icon displayed in the \"Home Screen\" of Apple iOS Devices."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:97
+msgid "The number of Thumbnails to display per set."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:87
+msgid "The number of sets to display per page."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:119
+msgid "The resolution of the images displayed in a single set."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:49
+msgid "The text to display at the end of every page."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:349
+msgid "The url to the Font must be single &ndash; make sure to not enter the address to a Fonts collection."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:335
+msgid "The url to the main Font that will be used in the layout."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:345
+msgid "The url to the secondary Font that will be used for Headings."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:385
+msgid "Theme"
+msgstr ""
+
+#. Text in function
+#: Photochrom/openframe/panel/start.php:1
+msgid "Theme Options"
+msgstr ""
+
+#. Text in function
+#: Photochrom/openframe/includes/update.php:1
+msgid "Theme Update"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/commentlist.php:25
+msgid "This comment has not been approved yet."
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:135
+msgid "Thumbnails Bar"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:93
+msgid "Thumbnails per Set"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:393
+msgid "Tick this option if you wish to be notified when a new version of this theme becomes available. The notification will be available under the \"Dashboard\" section."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:159
+msgid "Tick this option to dynamically change the page title when browsing a set."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:171
+msgid "Tick this option to show a list of all editable Sets in the left Sidebar of WordPress."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:149
+msgid "Tick this option to show the \"End of Set\" slide at the end of each Set."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:139
+msgid "Tick this option to show the bottom bar that contains the thumbnails when browsing a set."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:107
+msgid "Tick this option to show the publish date of your sets."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/includes/config/options.php:129
+msgid "Tick this option to show the top bar that holds captions when browsing a set."
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/metabox/start.php:1
+#: Photochrom/includes/metabox/metabox-picks.php:11
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/openframe/includes/update.php:39
+msgid "Update"
+msgstr ""
+
+#. Text in function
+#: Photochrom/openframe/includes/update.php:44
+msgid "Updating a theme is pretty much like installing it. Download it from ThemeForest.net, extract the .zip package, find the theme folder or the theme zip file. Now, if you do not know how to connect via FTP connection to your server, simply delete the current version of \"%s\" from WordPress and install the new one (Version %s). Otherwise, connect to your server, navigate to the WordPress themes folder and replace the whole theme folder with the new version."
+msgstr ""
+
+#. Text in function
+#: Photochrom/view-article.php:50
+msgid "View posts by %s"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/openframe/panel/display.php:8
+msgid "Wait a sec.."
+msgstr ""
+
+#. Text in echo
+#: Photochrom/index.php:47
+msgid "We could not find what you were looking for. Our fault. Perhaps searching can help:"
+msgstr ""
+
+#. Text in function
+#: Photochrom/view-article.php:50
+msgid "Written by %s"
+msgstr ""
+
+#. Text in function
+#: Photochrom/comments.php:8
+msgid "You are signed in as %s. %s"
+msgstr ""
+
+#. Text in function
+#: Photochrom/comments.php:8
+msgid "Your Message"
+msgstr ""
+
+#. Text in function
+#: Photochrom/comments.php:8
+msgid "Your Name"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/custom-types.php:1
+msgid "Your Sets"
+msgstr ""
+
+#. Text in function
+#: Photochrom/comments.php:8
+msgid "Your Website or Profile"
+msgstr ""
+
+#. Text in echo
+#: Photochrom/openframe/includes/update.php:45
+msgid "Your themes path is:"
+msgstr ""
+
+#. Text in function
+#: Photochrom/comments.php:8
+msgid "Your@Email.com"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:33
+msgid "iOS Home Icon"
+msgstr ""
+
+#. Text in function
+#: Photochrom/includes/config/options.php:379
+msgid "jQuery Code"
+msgstr ""

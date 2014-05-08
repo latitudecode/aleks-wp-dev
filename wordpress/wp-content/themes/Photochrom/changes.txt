@@ -1,0 +1,48 @@
+/*
+*	
+*	Read the included Documentation for
+*	informations on how to update.
+*
+*/
+
+Photochrom 1.3,
+25 September 2013:
+	
+	Fixed Sets Permalinks bug.
+	Layout improvements.
+	
+	Files affected:
+	
+		@ /style.css
+		@ /includes/custom-types.php
+		@ js/photochrom.start.js
+
+Photochrom 1.2,
+17 July 2013:
+
+	Improved responsiveness of images.
+	
+	Files affected:
+	
+		@ /style.css
+
+Photochrom 1.1,
+30 June 2013:
+	
+	Added support for protected Collections, Sets and Picks.
+	Added support for older versions of PHP.
+	Added support for vertical scrolling in thumbnails.
+	
+	Files affected:
+		
+		@ /style.css
+		@ /functions.php
+		@ /includes/enqueue.php
+		@ /includes/helper.php 
+		@ /js/photochrom.mini.js
+		+ /js/mousewheel.js
+		+ /part-item.php
+		@ /template-collection.php
+		@ /template-picks.php
+		@ /view-article.php
+		@ /view-set.php
